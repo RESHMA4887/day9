@@ -11,10 +11,10 @@
     <nav class="navbar navbar-expand-sm bg-light navbar-light">
         <ul class="navbar-nav">
           <li class="nav-item active">
-            <a class="nav-link" href="index.html">Active</a>
+            <a class="nav-link" href="index.php">Active</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="main.html">Link</a>
+            <a class="nav-link" href="main.php">Link</a>
           </li>
          
         </ul>
